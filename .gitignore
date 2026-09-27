@@ -1,3 +1,5 @@
 .venv/
 __pycache__/
 .DS_Store
+HW1/Q2/Part1/cifar10_data/
+HW1/Q2/Part1/cs521_hw1_models/
