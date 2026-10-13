@@ -1,0 +1,5 @@
+/Users/tanayshah/Documents/UIUC/CS521/HW2/Q5/cfenv/lib/python3.13/site-packages/z3/z3core.py:5: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources
+Proved Affine
+Proved Relu
+Provesound result: None
